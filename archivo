@@ -2,9 +2,5 @@ archivo original
 
 archivo de para usarse en un branch diferente
 branch original
-<<<<<<< HEAD
-
 se edita la linea 6
-=======
 linea 5 para el branch 2
->>>>>>> branch2
